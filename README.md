@@ -14,8 +14,7 @@
 电路图
 
 
-
-![circuit](imgs/ircuit.png)
+![circuit](imgs/circuit.png)
 
 支持的指令
 
